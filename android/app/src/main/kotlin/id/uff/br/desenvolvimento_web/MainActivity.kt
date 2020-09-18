@@ -1,0 +1,6 @@
+package id.uff.br.desenvolvimento_web
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
